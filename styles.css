@@ -5,12 +5,13 @@
 }
 
 :root{
-    --preto: #000000;
-    --marinho: #493D9E;
-    --amarelo-claro:#FFF2AF;
-    --roxo-claro:#B2A5FF;
-    --verde: #99BC85;
-    --azul-claro: #E4EFE7;
+    
+    --preto: #9857ce;
+    --marinho: #9857ce;
+    --amarelo-claro: #c2b7f5;
+    --roxo-claro: #B2A5FF;
+    --verde: #ef71fa;
+    --azul-claro: #ec9fff;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
 }
